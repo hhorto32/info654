@@ -4,16 +4,30 @@ body{
   font-family: Verdana, sans-serif;
 }
 
-#colorchange{color: pink}
+#header {
+  position: relative; top: 60px; 
+  width:100%; text-align: center; border-radius: 5px; 
+  background: rgba(180, 110, 110, 0.603); color: black; 
+  float:left;
+}
 
+#body {
+  position:relative; top: 200px;
+  width:100%; text-align: center; border-radius: 5px; 
+  background: rgba(207, 155, 35, 0.603); 
+}
 .one {
   height: 40%;
   width: 40%;
 }
-
+.footer{
+  position:fixed; top: 700px;
+  width:100%; text-align: center; border-radius: 5px; 
+ 
+}
 table {
   border: 5px solid black;
-  padding: 10px;
+  padding: 10px; 
 }
 th, td {border: 1px dotted black;
   padding: 10px;}
