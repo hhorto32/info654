@@ -29,7 +29,9 @@ background-color: #c9b8e3;
 }
 .footer{
   position:fixed; top: 800px;
-  width:100%; text-align: center; border-radius: 5px; 
+  display: inline-block;
+ margin-top: 2%
+  width:100%; text-align: center; border-radius: 10px; 
  
 }
 table {
