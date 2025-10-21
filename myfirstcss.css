@@ -28,9 +28,9 @@ background-color: #c9b8e3;
   width: 40%;
 }
 .footer{
-  position:fixed; bottom: 5px;
+  position:fixed; bottom: 1px;
 
-  width:100%; text-align: center; border-radius: 10px; 
+  width:100%; text-align: center; border-radius: 3px; 
  
 }
 table {
