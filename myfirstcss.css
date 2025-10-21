@@ -28,9 +28,9 @@ background-color: #c9b8e3;
   width: 40%;
 }
 .footer{
-  position:fixed; top: 800px;
+  position:relative; top: 700px;
   display: inline-block;
- margin-top: 2%
+ margin-top: 10%
   width:100%; text-align: center; border-radius: 10px; 
  
 }
